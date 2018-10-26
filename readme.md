@@ -1,8 +1,8 @@
 
 
-the aim of the function is to produce a fake sequences for classification purpos.if you build a model on your laptop and you have not much power to check it consistancy, or you need just a quick test. use it with these fake data may be effectif
+the aim of the function is to produce fake sequences for classification purpos.if you build a model on your laptop and you have not much power to check it's consistancy, or you need just a quick test. use it with these fake data may be effectif.
 
-the dataset is composed of integer sequence whith 3 labels.
+the dataset is composed of integer sequences whith 3 labels:
 
 1- evens : the sequence contains more even numbers than odds
 
